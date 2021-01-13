@@ -1,1 +1,1 @@
-
+FROM nexus3.acumos.org:10001/adoptopenjdk/openjdk11-openj9:alpine-jre
