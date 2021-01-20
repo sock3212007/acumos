@@ -1,1 +1,1 @@
-FROM sonatype/nexus3:3.9.0
+FROM nexus3.acumos.org:10004/acumos-portal-be:3.0.24
