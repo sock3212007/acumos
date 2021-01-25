@@ -1,1 +1,1 @@
-FROM blsaws/acumos-jenkins:lts
+FROM apache/nifi-registry:0.3.0
